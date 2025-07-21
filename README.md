@@ -6,6 +6,11 @@ Can we predict cardiovascular disease risk and diabetes onset using sleep patter
 ## Project Overview
 This project analyzes the relationship between sleep patterns and chronic disease risk, specifically focusing on cardiovascular disease and diabetes. The goal is to develop predictive models and provide actionable sleep recommendations that can significantly reduce disease risk.
 
+## Repository Contents
+sleep_health_analysis_final.ipynb - Complete notebook with detailed methodology, visualizations, and results
+./data - Merged data file.
+./images/ - Supporting visualizations and diagrams
+
 ## Dataset
 
 **National Health and Nutrition Examination Survey (NHANES) 2017-2018**
